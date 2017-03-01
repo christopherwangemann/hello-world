@@ -1,2 +1,4 @@
 # hello-world
-This is a test to learn the ways of GitHub
+
+I'm very interested in how this works. Creating alternate timelines for my work
+like in Back to the Futue sounds awesome!
